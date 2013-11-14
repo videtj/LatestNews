@@ -8,8 +8,6 @@
 
 BOT_NAME = 'LatestNews'
 
-SPIDER_MODULES = ['LatestNews.spiders']
-NEWSPIDER_MODULE = 'LatestNews.spiders'
+SPIDER_MODULES = ['LatestNews1.spiders']
+NEWSPIDER_MODULE = 'LatestNews1.spiders'
 
-# Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'LatestNews (+http://www.yourdomain.com)'
